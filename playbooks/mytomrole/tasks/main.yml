@@ -4,5 +4,5 @@
 - include_tasks: mytomconfigfile.yml
 - include_tasks: myadminpackages.yml
 - include_tasks: mytomuser.yml
-- include_tasks: mydeployjavaapp.yml
+#- include_tasks: mydeployjavaapp.yml
 # tasks file for mytomrole
